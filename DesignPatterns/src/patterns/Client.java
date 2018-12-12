@@ -4,7 +4,7 @@
  * $Header: $
  */
 
-package singleton;
+package patterns;
 
 import singleton.command.Command;
 import singleton.command.OpenCommand;
