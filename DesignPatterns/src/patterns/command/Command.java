@@ -1,5 +1,5 @@
 
-package singleton.command;
+package patterns.command;
 
 public interface Command {
   public void execute();

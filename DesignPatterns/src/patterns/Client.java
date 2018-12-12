@@ -6,9 +6,9 @@
 
 package patterns;
 
-import singleton.command.Command;
-import singleton.command.OpenCommand;
-import singleton.command.StatisticsCommand;
+import patterns.command.Command;
+import patterns.command.OpenCommand;
+import patterns.command.StatisticsCommand;
 
 /**
  * @author <a href="mailto:bario@ssi-schaefer-noell.com">bario</a>

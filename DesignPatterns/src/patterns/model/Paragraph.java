@@ -4,7 +4,9 @@
  * $Header: $
  */
 
-package singleton.model;
+package patterns.model;
+
+import patterns.model.Visitor;
 
 /**
  * @author <a href="mailto:bario@ssi-schaefer-noell.com">bario</a>

@@ -1,5 +1,5 @@
 
-package singleton.command;
+package patterns.command;
 
 public class SaveCommand implements Command {
 

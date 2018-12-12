@@ -1,14 +1,7 @@
 
-package singleton.model.pattern;
+package patterns.model;
 
-import singleton.model.Book;
-import singleton.model.Image;
-import singleton.model.ImageProxy;
-import singleton.model.Paragraph;
-import singleton.model.Section;
-import singleton.model.Table;
-
-public class BookStatistics implements singleton.model.Visitor {
+public class BookStatistics implements Visitor {
   private int numberOfImageProxy = 0;
   private int numberOfParagraphs = 0;
   private int numberOfImages = 0;

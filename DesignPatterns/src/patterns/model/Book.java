@@ -4,7 +4,7 @@
  * $Header: $
  */
 
-package singleton.model;
+package patterns.model;
 
 import java.util.ArrayList;
 import java.util.List;

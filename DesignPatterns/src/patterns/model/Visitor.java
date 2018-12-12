@@ -1,5 +1,5 @@
 
-package singleton.model;
+package patterns.model;
 
 public interface Visitor {
 

@@ -1,7 +1,7 @@
 
-package singleton.singleton;
+package patterns.singleton;
 
-import singleton.model.Book;
+import patterns.model.Book;
 
 public class DocumentManager {
   private static DocumentManager sharedInstance = null;
